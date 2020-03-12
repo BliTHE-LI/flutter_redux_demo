@@ -29,13 +29,10 @@ dev_dependencies:
 <a name="Nn8EV"></a>
 ### 创建相关文件和文件夹
 
-> `lib/redux/global_state.dart`：全局状态定义文件。
-
-> `lib/redux/reducers`：所有reducer都将在这里定义。
-
-> `lib/redux/actions`：所有`action`都将在这里定义。
-
-> `lib/redux/middlewares`：所有middleware都将在这里定义，本文没有用到。
+> `lib/redux/global_state.dart`：全局状态定义文件。<br>
+> `lib/redux/reducers`：所有reducer都将在这里定义。<br>
+> `lib/redux/actions`：所有`action`都将在这里定义。<br>
+> `lib/redux/middlewares`：所有middleware都将在这里定义，本文没有用到。<br>
 
 
 
