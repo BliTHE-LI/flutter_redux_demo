@@ -1,5 +1,4 @@
 # flutter_redux_demo
-# Flutter全局状态管理和数据持久化
 
 > 如果不知道[Redux](https://www.redux.org.cn/)的自行查看[Redux](https://www.redux.org.cn/)文档。
 
